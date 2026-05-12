@@ -1,5 +1,25 @@
 # The Definitive NumPy Reference Guide: From Fundamentals to Advanced Internals
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Array Creation](#3-array-creation)
+- [4. Array Attributes](#4-array-attributes)
+- [5. Indexing and Slicing](#5-indexing-and-slicing)
+- [6. Broadcasting](#6-broadcasting)
+- [7. Universal Functions](#7-universal-functions)
+- [8. Array Operations](#8-array-operations)
+- [9. Aggregations](#9-aggregations)
+- [10. Linear Algebra](#10-linear-algebra)
+- [11. Random Numbers](#11-random-numbers)
+- [12. Data Types](#12-data-types)
+- [13. Reshaping and Stacking](#13-reshaping-and-stacking)
+- [14. Sorting and Searching](#14-sorting-and-searching)
+- [15. Masking and Filtering](#15-masking-and-filtering)
+- [16. Performance Tips](#16-performance-tips)
+- [17. Interoperability](#17-interoperability)
+- [18. Advanced Topics](#18-advanced-topics)
+
 ## 1. INTRODUCTION & HISTORY
 
 ### What is NumPy
