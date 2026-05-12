@@ -1,5 +1,27 @@
 # SymPy Production Technical Reference
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Symbols & Expressions](#3-symbols--expressions)
+- [4. Algebraic Manipulation](#4-algebraic-manipulation)
+- [5. Equation Solving](#5-equation-solving)
+- [6. Calculus](#6-calculus)
+- [7. Matrices](#7-matrices)
+- [8. Functions](#8-functions)
+- [9. Substitution & Evaluation](#9-substitution--evaluation)
+- [10. Printing & Formatting](#10-printing--formatting)
+- [11. Polynomials](#11-polynomials)
+- [12. Logic & Sets](#12-logic--sets)
+- [13. Differential Equations](#13-differential-equations)
+- [14. Series & Approximations](#14-series--approximations)
+- [15. Vector Calculus](#15-vector-calculus)
+- [16. Geometry](#16-geometry)
+- [17. Numerical Bridge (lambdify)](#17-numerical-bridge-lambdify)
+- [18. Performance Considerations](#18-performance-considerations)
+- [19. Common Pitfalls](#19-common-pitfalls)
+- [20. Advanced Topics](#20-advanced-topics)
+
 ## 1. INTRODUCTION & HISTORY
 
 ### What is SymPy
