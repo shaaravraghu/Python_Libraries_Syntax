@@ -1,5 +1,27 @@
 # SciPy Production Technical Reference
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. SciPy Module Overview](#3-scipy-module-overview)
+- [4. Linear Algebra (`scipy.linalg`)](#4-linear-algebra-scipylinalg)
+- [5. Optimization (`scipy.optimize`)](#5-optimization-scipyoptimize)
+- [6. Integration (`scipy.integrate`)](#6-integration-scipyintegrate)
+- [7. Interpolation (`scipy.interpolate`)](#7-interpolation-scipyinterpolate)
+- [8. Fourier Transforms (`scipy.fft`)](#8-fourier-transforms-scipyfft)
+- [9. Signal Processing (`scipy.signal`)](#9-signal-processing-scipysignal)
+- [10. Statistics (`scipy.stats`)](#10-statistics-scipystats)
+- [11. Sparse Matrices (`scipy.sparse`)](#11-sparse-matrices-scipysparse)
+- [12. Image Processing (`scipy.ndimage`)](#12-image-processing-scipyndimage)
+- [13. Distance & Spatial Algorithms](#13-distance--spatial-algorithms)
+- [14. Performance Optimization](#14-performance-optimization)
+- [15. Interoperability](#15-interoperability)
+- [16. Real-World Applications](#16-real-world-applications)
+- [17. Common Pitfalls](#17-common-pitfalls)
+- [18. Advanced Usage](#18-advanced-usage)
+- [19. Internals Overview](#19-internals-overview)
+- [20. Advanced Topics](#20-advanced-topics)
+
 ## 1. INTRODUCTION & HISTORY
 
 ### What is SciPy
