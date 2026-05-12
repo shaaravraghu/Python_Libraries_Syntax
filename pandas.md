@@ -1,6 +1,24 @@
 # Pandas Production-Grade Reference Guide
 > An exhaustive, production-ready technical manual for the Pandas library.
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Series and DataFrame Concepts](#3-series-and-dataframe-concepts)
+- [4. Data Loading](#4-data-loading)
+- [5. Indexing and Selection](#5-indexing-and-selection)
+- [6. Cleaning Data](#6-cleaning-data)
+- [7. GroupBy and Aggregation](#7-groupby-and-aggregation)
+- [8. Merging and Joining](#8-merging-and-joining)
+- [9. Reshaping Data](#9-reshaping-data)
+- [10. Time Series](#10-time-series)
+- [11. Missing Data](#11-missing-data)
+- [12. String Operations](#12-string-operations)
+- [13. Categoricals](#13-categoricals)
+- [14. Performance Tips](#14-performance-tips)
+- [15. Visualization Integration](#15-visualization-integration)
+- [16. Advanced Topics](#16-advanced-topics)
+
 ---
 
 ## 1. INTRODUCTION & HISTORY
