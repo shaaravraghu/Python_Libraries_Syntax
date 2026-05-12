@@ -1,5 +1,27 @@
 # FastAPI: The Exhaustive Developer's Reference
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Path Operations](#3-path-operations)
+- [4. Request and Response Models](#4-request-and-response-models)
+- [5. Dependency Injection](#5-dependency-injection)
+- [6. Query, Path, and Body Parameters](#6-query-path-and-body-parameters)
+- [7. Validation](#7-validation)
+- [8. Error Handling](#8-error-handling)
+- [9. Security](#9-security)
+- [10. Async and Concurrency](#10-async-and-concurrency)
+- [11. Database Integration](#11-database-integration)
+- [12. Background Tasks](#12-background-tasks)
+- [13. Middleware](#13-middleware)
+- [14. WebSockets](#14-websockets)
+- [15. Testing](#15-testing)
+- [16. Deployment](#16-deployment)
+- [17. OpenAPI and Docs](#17-openapi-and-docs)
+- [18. Advanced Patterns](#18-advanced-patterns)
+- [19. Performance Optimization](#19-performance-optimization)
+- [20. Advanced Topics](#20-advanced-topics)
+
 ## 1. INTRODUCTION & HISTORY
 
 ### What is FastAPI
