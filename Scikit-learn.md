@@ -2,6 +2,10 @@
 
 Welcome to the definitive, production-grade technical reference for Scikit-Learn. This document is designed for professional Machine Learning engineers and Data Scientists, covering everything from the fundamental paradigms of the library to highly advanced internals, performance optimizations, and custom estimator design.
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+
 ---
 
 ## 1. INTRODUCTION & HISTORY
