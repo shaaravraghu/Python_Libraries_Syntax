@@ -2,6 +2,24 @@
 
 This document serves as an exhaustive, production-grade technical reference for the Seaborn library. It covers every aspect from fundamental plotting concepts to advanced configuration, statistical transformations, and integration with the broader Python data science ecosystem.
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Datasets & Data Handling](#3-datasets--data-handling)
+- [4. Basic Plots](#4-basic-plots)
+- [5. Distribution Plots](#5-distribution-plots)
+- [6. Categorical Plots](#6-categorical-plots)
+- [7. Regression & Relational Plots](#7-regression--relational-plots)
+- [8. Matrix & Heatmap Plots](#8-matrix--heatmap-plots)
+- [9. Customization & Styling](#9-customization--styling)
+- [10. Faceting & Grid-Based Plots](#10-faceting--grid-based-plots)
+- [11. Statistical Estimation & Confidence Intervals](#11-statistical-estimation--confidence-intervals)
+- [12. Color Palettes](#12-color-palettes)
+- [13. Integration with Matplotlib and Pandas](#13-integration-with-matplotlib-and-pandas)
+- [14. Performance Considerations](#14-performance-considerations)
+- [15. Common Pitfalls](#15-common-pitfalls)
+- [16. Advanced Usage](#16-advanced-usage)
+
 ---
 
 ## 1. INTRODUCTION & HISTORY
