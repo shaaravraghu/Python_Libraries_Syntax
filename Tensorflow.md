@@ -2,6 +2,27 @@
 
 This exhaustive reference document serves as a complete guide to TensorFlow, specifically focusing on TensorFlow 2.x and modern best practices for production deployments.
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Core Tensor Concepts](#3-core-tensor-concepts)
+- [4. Keras and Model Building](#4-keras-and-model-building)
+- [5. Data Pipelines (`tf.data`)](#5-data-pipelines-tfdata)
+- [6. Training Loops](#6-training-loops)
+- [7. Evaluation and Metrics](#7-evaluation-and-metrics)
+- [8. Saving and Loading Models](#8-saving-and-loading-models)
+- [9. TensorFlow in Production](#9-tensorflow-in-production)
+- [10. TensorFlow Lite](#10-tensorflow-lite)
+- [11. TensorFlow Serving](#11-tensorflow-serving)
+- [12. TensorBoard](#12-tensorboard)
+- [13. Distributed Training](#13-distributed-training)
+- [14. TensorFlow Probability](#14-tensorflow-probability)
+- [15. Advanced Tensor Operations](#15-advanced-tensor-operations)
+- [16. Performance Optimization](#16-performance-optimization)
+- [17. Debugging and Profiling](#17-debugging-and-profiling)
+- [18. Common Pitfalls](#18-common-pitfalls)
+- [19. Advanced Topics](#19-advanced-topics)
+
 ---
 
 ## 1. INTRODUCTION & HISTORY
