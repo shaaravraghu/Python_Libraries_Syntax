@@ -2,6 +2,28 @@
 
 > **Disclaimer**: This document is an exhaustive, deep-dive technical reference on Matplotlib, designed for production-level data visualization engineers and data scientists. It covers every concept from fundamentals to advanced internals.
 
+## Contents
+- [1. Introduction & History](#1-introduction--history)
+- [2. Installation & Setup](#2-installation--setup)
+- [3. Basic Plotting](#3-basic-plotting)
+- [4. Figures & Axes (Core Concept)](#4-figures--axes-core-concept)
+- [5. Axis Customization](#5-axis-customization)
+- [6. Different Plot Types](#6-different-plot-types)
+- [7. Subplots & Layouts](#7-subplots--layouts)
+- [8. Styling & Themes](#8-styling--themes)
+- [9. Annotations & Text](#9-annotations--text)
+- [10. Legends & Labels](#10-legends--labels)
+- [11. Images & Heatmaps](#11-images--heatmaps)
+- [12. 3D Plotting](#12-3d-plotting)
+- [13. Interactive Plotting](#13-interactive-plotting)
+- [14. Animations](#14-animations)
+- [15. Saving & Exporting](#15-saving--exporting)
+- [16. Performance Optimization](#16-performance-optimization)
+- [17. Integration](#17-integration)
+- [18. Custom Plots & Extensibility](#18-custom-plots--extensibility)
+- [19. Common Pitfalls Summary](#19-common-pitfalls-summary)
+- [20. Advanced Topics: Internals](#20-advanced-topics-internals)
+
 ---
 
 ## 1. INTRODUCTION & HISTORY
